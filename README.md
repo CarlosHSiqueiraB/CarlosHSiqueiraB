@@ -110,23 +110,11 @@ Apaixonado por tecnologia, desenvolvimento back-end, computação em nuvem e boa
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHSiqueiraB&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHSiqueiraB&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 # 🌐 Contato
 
 <p align="left">
 
-<a href="https://[www.linkedin.com](https://www.linkedin.com/in/carlos-henrique-aa6148373/)/">
+<a href="https://www.linkedin.com/in/carlos-henrique-aa6148373/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
