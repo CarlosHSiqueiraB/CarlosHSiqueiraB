@@ -39,6 +39,7 @@ Apaixonado por tecnologia, desenvolvimento back-end, computação em nuvem e boa
 * Spring Boot
 * APIs REST
 * Orientação a Objetos (POO)
+* Estrutura de Dados
 
 ---
 
@@ -101,7 +102,7 @@ Apaixonado por tecnologia, desenvolvimento back-end, computação em nuvem e boa
 
 # 📚 Atualmente Estudando
 
-* ☁️ Microsoft Azure (AZ-900)
+* ☁️ Microsoft Azure (AZ-900)/(DP-900)
 * 🌱 Spring Boot Avançado
 * 🧪 Testes Automatizados
 * 🏗️ Arquitetura Back-end
@@ -113,9 +114,9 @@ Apaixonado por tecnologia, desenvolvimento back-end, computação em nuvem e boa
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosHSiqueiraB&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHSiqueiraB&layout=compact&theme=tokyonight"/>
 
 </div>
 
