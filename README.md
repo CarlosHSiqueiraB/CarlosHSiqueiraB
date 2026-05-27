@@ -126,11 +126,11 @@ Apaixonado por tecnologia, desenvolvimento back-end, computação em nuvem e boa
 
 <p align="left">
 
-<a href="https://www.linkedin.com/">
+<a href="https://[www.linkedin.com](https://www.linkedin.com/in/carlos-henrique-aa6148373/)/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:seuemail@email.com">
+<a href="mailto:carlossiqueiraborges@email.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
