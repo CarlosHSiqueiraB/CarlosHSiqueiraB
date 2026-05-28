@@ -15,10 +15,15 @@ Apaixonado por tecnologia, desenvolvimento back-end, computação em nuvem e boa
 # 🧠 Sobre Mim
 
 🎯 Focado em desenvolvimento back-end com Java e ecossistema Spring <br/>
-☁️ Estudando computação em nuvem com Microsoft Azure
-🧪 Interesse em testes unitários, qualidade de software e boas práticas
-📚 Sempre buscando evoluir em arquitetura, APIs REST e bancos de dados
-🚀 Construindo projetos para fortalecer habilidades técnicas e profissionais
+☁️ Estudando computação em nuvem com Microsoft Azure <br/>
+🧪 Interesse em testes unitários, qualidade de software e boas práticas <br/>
+📚 Sempre buscando evoluir em arquitetura, APIs REST e bancos de dados <br/>
+🚀 Construindo projetos para fortalecer habilidades técnicas e profissionais <br/>
+
+🏫 Técnico em Desenvolvimento de Sistemas pelo Senai <br/>
+🎓 Cursando Sistemas de Informações pela Estácio <br/>
+📖 Participação em Diversos Cursos da DIO <br/>
+✨ Participando do Projeto Jovem-Tech <br/>
 
 ---
 
