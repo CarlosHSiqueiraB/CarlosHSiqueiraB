@@ -14,7 +14,7 @@ Apaixonado por tecnologia, desenvolvimento back-end, computação em nuvem e boa
 
 # 🧠 Sobre Mim
 
-🎯 Focado em desenvolvimento back-end com Java e ecossistema Spring
+🎯 Focado em desenvolvimento back-end com Java e ecossistema Spring <br/>
 ☁️ Estudando computação em nuvem com Microsoft Azure
 🧪 Interesse em testes unitários, qualidade de software e boas práticas
 📚 Sempre buscando evoluir em arquitetura, APIs REST e bancos de dados
