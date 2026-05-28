@@ -21,7 +21,7 @@ Apaixonado por tecnologia, desenvolvimento back-end, computação em nuvem e boa
 🚀 Construindo projetos para fortalecer habilidades técnicas e profissionais <br/>
 
 🏫 Técnico em Desenvolvimento de Sistemas pelo Senai <br/>
-🎓 Cursando Sistemas de Informações pela Estácio <br/>
+🎓 Cursando Sistemas de Informação pela Estácio <br/>
 📖 Participação em Diversos Cursos da DIO <br/>
 ✨ Participando do Projeto Jovem-Tech <br/>
 
